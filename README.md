@@ -7,7 +7,7 @@ Hi, I'm Lev, a Software Engineer with six years of experience in software develo
 <div align="center">
   <img src="https://raw.githubusercontent.com/droserasprout/droserasprout/a603e2c3864567b639ab34fb3495f0b8a73f8e94/assets/howdy.gif?token=GHSAT0AAAAAABKQSZAX32HFUGXDLGR2CP6UYU3KGWQ">
   <br>
-  <sub>(this buddy was born that way, google "short back dogs")</sub>
+  <sub>(this buddy was born this way, google "short back dogs")</sub>
 </div>
 
 ##### Tezos ecosystem
