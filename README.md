@@ -32,6 +32,5 @@ Hi, I'm Lev, a Software Engineer with six years of experience in software develo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=droserasprout&hide_border=true">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=droserasprout&layout=compact&hide_border=true">
 </div>
