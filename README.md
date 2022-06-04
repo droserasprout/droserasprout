@@ -30,6 +30,10 @@ Hi, I'm Lev, a Software Engineer with six years of experience in software develo
 
 * [pacman-fix-permissions](https://github.com/droserasprout/pacman-fix-permissions) ‒ fix broken Arch Linux filesystem permissions.
 
+##### Other
+
+* [lenovo-yoga-c930-linux](https://github.com/droserasprout/lenovo-yoga-c930-linux) ‒ an unexpectedly popular saga about why you should never buy Lenovo laptops
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=droserasprout&hide_border=true&theme=gruvbox">
 </div>
