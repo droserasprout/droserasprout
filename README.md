@@ -5,10 +5,7 @@
 Hi, I'm Lev, a Software Engineer with six years of experience in software development and UNIX system administration. I am currently working as a Backend Developer at [Baking Bad](https://github.com/baking-bad/). Check out my open-source projects below.
 
 <div align="center">
-  <video autoplay loop>
-    <source src="https://github.com/droserasprout/droserasprout/blob/2abed144de5d11aea201530a450e510735e463f9/assets/howdy.mp4">
-    [a funny gif with a short back dog]
-  </video>
+  <img src="assets/howdy.gif">
   <br>
   <div class="footnote">(this buddy was born that way, google "short back dogs")</div>
 </div>
