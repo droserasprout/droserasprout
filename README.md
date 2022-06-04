@@ -30,7 +30,6 @@ Hi, I'm Lev, a Software Engineer with six years of experience in software develo
 
 * [pacman-fix-permissions](https://github.com/droserasprout/pacman-fix-permissions) ‒ fix broken Arch Linux filesystem permissions.
 
-<div align="center">
+<center>
   <img src="https://github-readme-stats.vercel.app/api?username=droserasprout&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=droserasprout&layout=compact&hide_border=true">
-</div>
+</center>
