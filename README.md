@@ -26,7 +26,7 @@ Hi, I'm Lev, a Software Engineer with six years of experience in software develo
 
 * [Secure Lockscreen Camera](https://github.com/droserasprout/com.github.droserasprout.lockscreencamera) ‒ an Xposed Framework module to skip authentication on the "Quickly open camera" gesture.
 * [Healergram](https://github.com/droserasprout/healergram) ‒ an Xposed module to heal your Telegram feed addiction.
-<!-- * [bluecoins-cli](https://github.com/droserasprout/bluecoins-cli) ‒ a CLI tool to change Blucoins database currency using historical price data. -->
+* [bluecoins-cli](https://github.com/droserasprout/bluecoins-cli) ‒ a CLI tool to manage the database of Bluecoins, an awesome budget planner for Android.
 
 ##### System tools
 
