@@ -1,14 +1,13 @@
-<link rel="stylesheet" href="assets/style.css">
+<img align="right" src="https://raw.githubusercontent.com/droserasprout/droserasprout/a603e2c3864567b639ab34fb3495f0b8a73f8e94/assets/howdy.gif?token=GHSAT0AAAAAABKQSZAX32HFUGXDLGR2CP6UYU3KGWQ">
+<img align="right" src="assets/bar.png">
 
 [telegram](https://t.me/droserasprout) | [discord](https://discord.com/users/180837124097048578) | [email](hi@droserasprout.space) | [buy coffee](https://www.buymeacoffee.com/droserasprout)
 
 Hi, I'm Lev, a Software Engineer with six years of experience in software development and UNIX system administration. I am currently working as a Backend Developer at [Baking Bad](https://github.com/baking-bad/). Check out my open-source projects below.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/droserasprout/droserasprout/a603e2c3864567b639ab34fb3495f0b8a73f8e94/assets/howdy.gif?token=GHSAT0AAAAAABKQSZAX32HFUGXDLGR2CP6UYU3KGWQ">
-  <br>
-  <sub>(this buddy was born this way, google "short back dogs")</sub>
-</div>
+<br><br><br>
+<p align="right"><sub> (this buddy was born this way, google "short back dogs") </sub></p>
+
 
 ##### Tezos ecosystem
 
